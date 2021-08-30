@@ -4,7 +4,7 @@ import { MarketingApp } from './apps/MarketingApp';
 const App = () => {
   return (
     <div>
-      <h1>Hi</h1>
+      <h1>Container app</h1>
       <MarketingApp/>
     </div>
   )
