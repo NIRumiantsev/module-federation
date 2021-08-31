@@ -79,7 +79,7 @@ const Landing = () => {
               color="textPrimary"
               gutterBottom
             >
-              Home Page
+              MFE Home Page
             </Typography>
             <Typography
               variant="h5"
